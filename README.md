@@ -8,10 +8,15 @@ This project demonstrates how to build interactive desktop applications using Tk
 
 🧩 Key Features
 ✅ Supports basic arithmetic operations : Add, Subtract, Multiply, Divide
+
 🎨 Built with Tkinter GUI – no external libraries required
+
 ⚠️ Handles division by zero errors gracefully
+
 💡 Clean and intuitive design for easy user interaction
+
 📦 Lightweight and runs directly from the Python environment
+
 🛠️ Technologies Used
 Python 3.x
 Core programming language
